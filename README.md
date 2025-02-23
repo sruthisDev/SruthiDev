@@ -26,6 +26,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sruthisdev&" alt="sruthisdev" /></p>
 
 
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
 
 <!---
 sruthisDev/sruthisDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
