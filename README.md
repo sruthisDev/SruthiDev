@@ -9,7 +9,7 @@
 
 - I love the game I developed [Desert Survival Island](https://github.com/sruthisDev/Deserted-Island-Survival-Game)
 
-- 📫 How to reach me **sruthiraosatyavrapu@gmail.com**
+- 📫 How to reach me **sruthiraosatyavarapu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
