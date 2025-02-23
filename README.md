@@ -26,6 +26,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sruthisdev&" alt="sruthisdev" /></p>
 
 
+### Watch my contribution graph get eaten by the snake :snake:
+
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
 
