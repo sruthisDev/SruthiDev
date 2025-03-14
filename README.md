@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Weather Impact on Music Trends](https://github.com/sruthisDev/Weather-Impact-On-Music-Trends)
 
+- 🔭 I’m currently working on [Strawberry-Ripeness-Classification](https://github.com/sruthisDev/Strawberry_Ripeness_Classification)
+
 - I love the game I developed [Desert Survival Island](https://github.com/sruthisDev/Deserted-Island-Survival-Game)
 
 - 📫 How to reach me **sruthiraosatyavarapu@gmail.com**
