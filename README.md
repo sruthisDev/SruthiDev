@@ -5,11 +5,13 @@
 
 <!-- #<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sruthisdev" alt="sruthisdev" /></a> </p> -->
 
-- 🔭 I’m currently working on [Weather Impact on Music Trends](https://github.com/sruthisDev/Weather-Impact-On-Music-Trends)
+- 🧓 I’m currently working on an AI assistant designed to provide care and companionship for seniors.[Elderly-AI-Companion](https://github.com/sruthisDev/AWS-Hackathon-Elderly-AI-Companion)
 
-- 🔭 I’m currently working on [Strawberry Ripeness Classification](https://github.com/sruthisDev/Strawberry_Ripeness_Classification)
+- 🍓 I’m currently working on [Strawberry Ripeness Classification](https://github.com/sruthisDev/Strawberry_Ripeness_Classification)
 
-- I love the game I developed [Desert Survival Island](https://github.com/sruthisDev/Deserted-Island-Survival-Game)
+- 🌦️ 🎧 I enjoyed exploring how weather influences listening habits through [Weather Impact on Music Trends](https://github.com/sruthisDev/Weather-Impact-On-Music-Trends)
+
+- 🎮I love the game I developed [Desert Survival Island](https://github.com/sruthisDev/Deserted-Island-Survival-Game)
 
 - 📫 How to reach me **sruthiraosatyavarapu@gmail.com**
 
