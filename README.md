@@ -11,6 +11,9 @@
 
 - 💬 I m currently building a modular, domain-adaptive chatbot framework that enables plug-and-play customization for personalized AI conversations.
 
+- ⌚ Developing a comprehensive fall detection and activity monitoring system using wearable sensor data for real-time health tracking.
+
+
 - 🌦️ 🎧 I enjoyed exploring how weather influences listening habits through [Weather Impact on Music Trends](https://github.com/sruthisDev/Weather-Impact-On-Music-Trends)
 
 - 🎮I love the game I developed [Desert Survival Island](https://github.com/sruthisDev/Deserted-Island-Survival-Game)
