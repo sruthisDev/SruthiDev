@@ -9,8 +9,7 @@
 
 - 🍓 I’m currently working on [Strawberry Ripeness Classification](https://github.com/sruthisDev/Strawberry_Ripeness_Classification)
 
-- ### 💬 Modular Chatbot Project  
-Building a modular, domain-adaptive chatbot framework that enables plug-and-play customization for personalized AI conversations.
+- 💬 I m currently building a modular, domain-adaptive chatbot framework that enables plug-and-play customization for personalized AI conversations.
 
 - 🌦️ 🎧 I enjoyed exploring how weather influences listening habits through [Weather Impact on Music Trends](https://github.com/sruthisDev/Weather-Impact-On-Music-Trends)
 
