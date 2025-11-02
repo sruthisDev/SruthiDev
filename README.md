@@ -5,14 +5,13 @@
 
 <!-- #<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sruthisdev" alt="sruthisdev" /></a> </p> -->
 
+-💬 Domain Specific RAG Chatbot: Currently researching and developing a modular, domain-adaptive chatbot framework that enables plug-and-play customization for personalized AI conversations.
+
+-⌚ Wearables: Currently researching and building a comprehensive fall detection and activity monitoring system using wearable sensor data for real-time health tracking.
+
 - 🧓 I’m currently working on an AI assistant designed to provide care and companionship for seniors. [Elderly-AI-Companion](https://github.com/sruthisDev/AWS-Hackathon-Elderly-AI-Companion)
 
 - 🍓 I’m currently working on [Strawberry Ripeness Classification](https://github.com/sruthisDev/Strawberry_Ripeness_Classification)
-
-- 💬 I m currently building a modular, domain-adaptive chatbot framework that enables plug-and-play customization for personalized AI conversations.
-
-- ⌚ Developing a comprehensive fall detection and activity monitoring system using wearable sensor data for real-time health tracking.
-
 
 - 🌦️ 🎧 I enjoyed exploring how weather influences listening habits through [Weather Impact on Music Trends](https://github.com/sruthisDev/Weather-Impact-On-Music-Trends)
 
